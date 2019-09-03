@@ -1,0 +1,38 @@
+Web browser + Editor
+
+HTML Editor
+
+Atom을 사용할것
+
+
+Atom 키고 프로젝트 만들기
+
+Atom켜서 다 끄고 
+
+File -> Open Folder -> 바탕화면에 코딩할 저장해둔 폴더 설정
+
+New File
+XXX. html
+.html확장자로 저장
+
+우리가 www.으로 시작하는건 다른 컴퓨터에 저장된 웹을 여는거고
+Ctrl + O 로 파일을 열 수 있다
+
+웹 브라우져에서 xxx.html을 열자
+
+hello web 치고 저장
+
+저장 : ctrl + s
+
+tags
+<br>
+<strong> </strong>
+<u> </u> 
+
+
+페이지 소스 보기
+
+오른쪽마우스 -> 페이지 소스 보기
+
+태그 확인하기
+HTML h1 tag를 인터넷에 확인
